@@ -1,0 +1,89 @@
+* {
+   margin: 0;
+   padding: 0;
+}
+
+body {
+   background-image: url("sample-pattern.png");
+
+}
+
+header {
+   background-color: #FFFFFF;
+   width: 100%;
+   position: fixed;
+   height: 50px;
+   text-align: right;
+}
+
+#logo {
+   float: left;
+   padding-top:  /* Set Padding Top */
+   /* Set Margin Left */
+   /* Set Margin Top */
+   /* Set Padding Bottom */
+}
+
+nav {
+   float: /* Set Value here */
+   /* Set Align Text */
+   /* Set Padding Right */
+   /* Set Margin Top */
+}
+
+li {
+   display: inline-block;
+   margin-right: 5px;/* Set Margin Right */
+   margin-bottom:  /* Set Margin Bottom */
+   /* Set Color */
+}
+
+a {
+   text-decoration: none;
+}
+
+li a {
+   display: block;
+   padding: 10px 15px;
+}
+
+li a:hover {
+   background-color: blue;
+   color: #FFFFFF;
+}
+
+h1 {
+   padding-top: 100px;
+   color: rgb(95, 93, 93);
+   text-align: left;
+   margin-bottom: 10px;
+   font-size: 20pt;/* Set Font Size */
+}
+
+h3 {
+   color: blue;/* Set Color */
+   padding-bottom: 10px; /* Set Padding Bottom */
+}
+
+#article-list article {
+   margin:10px 100px;
+   text-align: left;
+   background-color: white;
+   padding: 10px;
+   margin-bottom: auto;
+}
+
+footer {
+   background-color: black;
+   width: 1300px;
+   text-align: center;
+   padding: 10;
+   font-size: 10pt;
+   margin-top:103px;
+   
+}
+
+h5 {
+   color: white;
+}
+
